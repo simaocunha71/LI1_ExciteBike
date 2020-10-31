@@ -1,5 +1,5 @@
 ## Projeto de Laboratórios de Informática 1 (LI1) - Recriação do jogo "ExciteBike"
-
+![Captura de ecrã de 2020-10-31 20-08-58](https://user-images.githubusercontent.com/61991247/97788993-fdbcbc80-1bb4-11eb-80f5-b03205d320b2.png)
 # Glossário das tarefas
 
 ```
